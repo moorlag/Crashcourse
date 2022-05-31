@@ -1,0 +1,11 @@
+.ipynb_checkpoints/*
+.DS_Store
+_build/.doctrees/*
+ext/.ipynb_checkpoints/*
+ext/__pycache__/*
+ext/sphinx-exercise
+ext/sphinx-assessment
+_build/*
+binder/.ipynb_checkpoints/*
+voorbeelden/.ipynb_checkpoints/*
+sphinx-extensions/.ipynb_checkpoints/*
