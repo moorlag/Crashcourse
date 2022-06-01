@@ -3,7 +3,7 @@
 
 title: Mijn eerste Jupyter Book! (met dank aan Eelco)
 author: Ramon Moorlag
-logo: logo.png
+logo: Python.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
